@@ -1,8 +1,8 @@
 var NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-language-understanding/v1.js');
 
 var natural_language_understanding = new NaturalLanguageUnderstandingV1({
-  'username': 'xxxx',   /*NLU Password here*/
-  'password': 'xxxx',   /*NLU Password here*/
+  'username': '757c0b73-8d5b-499e-a5fb-0ba3b405a080',   /*NLU Password here*/
+  'password': 'uS0P4Au8CBat',   /*NLU Password here*/
   'version_date': '2017-02-27'
 });
 
